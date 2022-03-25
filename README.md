@@ -10,3 +10,9 @@
 + Matplotlib의 pyplot 라이브러리 보충 공부(fig, fig.subplot, fig.add_subplot 등의 차이점 확인)
 + (강의) 파이썬 제너레이터, 코루틴 + Yield , 병렬성 Futures 라이브러리 (wait, map, as_completed)
 + (강의) 프로세스와 쓰레드의 차이, 파이썬의 GIL
+
+
+## 22.03.25
++ (강의) Thread-Basic / Daemon / Join / ThreadPoolExecutor / Lock, deadlock / 생산자 소비자 패턴
++ (강의) MultiProcessing - Process vs Thread, Parallelism / Join / is_alive / Naming, Parallel Processing / ProcessPoolExecutor / Sharing State / Queue, Pipe
++ Pyqt5를 이용한 동적 Grid Layout 기능 개발 / StackWidget을 이용한 한 화면 UI 개발. 
